@@ -1,0 +1,22 @@
+commit cbce3379a1c63620d74dd9c29fff0392fe7cfa31 (HEAD -> master, origin/master, origin/dev, dev)
+Author: vktor28 <v_bcn@hotmail.com>
+Date:   Wed Oct 16 21:04:04 2024 +0200
+
+    commit nuevo funcionalidad 2 main
+
+commit 865bfd69f0c8884ae1c3591a3ee8f443e3586cf7
+Author: vktor28 <v_bcn@hotmail.com>
+Date:   Wed Oct 16 20:59:49 2024 +0200
+
+    Añadiendo nueva funcionalidad
+
+commit a5501d9668be729b04a40b11176552704a38f4ce
+Author: vktor28 <v_bcn@hotmail.com>
+Date:   Wed Oct 16 20:50:53 2024 +0200
+
+    primer commit rama Dev
+
+commit 656c09c6f08c4733310e3a74ceac8d9ead18858b
+Author: vktor28 <v_bcn@hotmail.com>
+Date:   Wed Oct 16 20:34:27 2024 +0200
+:
